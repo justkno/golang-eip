@@ -1,4 +1,4 @@
-#Enterprise Integration Patterns for Go
+# Enterprise Integration Patterns for Go
 
 ## What is golang-eip?
 
